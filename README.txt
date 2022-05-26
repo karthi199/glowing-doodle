@@ -1,0 +1,1 @@
+learning the git merging command by uysing this folder.
